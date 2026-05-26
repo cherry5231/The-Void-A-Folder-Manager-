@@ -39,7 +39,7 @@ elif fate == "consume":
     f"starting/projects/Void/incoming/{selected_file}",
     f"starting/projects/Void/consumed/{selected_file}"
     )
-    print(f"{selected_file} has been consumed by thr VOID.")
+    print(f"{selected_file} has been consumed by the VOID.")
 else:
     print("Invalid file outcome")
 print("You Can restore the files later by entering passkey for the files,")
