@@ -13,7 +13,7 @@ A Python-based file system simulation where files can be **consumed, preserved, 
 - Restore files using V-codes
 - Simple terminal-based interface
 - Automatic folder handling (if setup script is used)
-
+- Protoype Login Page 
 ---
 
 #  Project Structure
@@ -95,6 +95,9 @@ survivors/
 ```
 
 ---
+## Step 4: Try Prototype Login Page
+- Click on void.html
+- run it in VS code using HTML,CSS and LIVE SERVER extensions
 
 #  Notes
 
